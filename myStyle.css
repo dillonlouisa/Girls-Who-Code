@@ -1,0 +1,73 @@
+h1 {
+  color:black;
+  font-size: 75px;
+}
+
+h2{
+  color:green;
+  font-size: 30px;
+}
+
+h3{
+  color:black;
+  font-size: 20px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #FFFFFF;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    border-bottom: 1px solid #555;
+
+body {
+  margin: 0;
+  padding: 10% 20% 40%;
+}
+
+
+div maincontainer {
+    margin: 0 auto;
+    width: ___px;
+    text-align: center;
+}
+
+
+ul li {
+    margin-left: auto;
+    margin-right: auto;
+}
+.topnav {
+  background.color: #EEE;
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: #FFF;
+  text-align: center;
+  padding: 14x 16x;
+  text- decoration: none;
+  font-size: 15px;
+}
